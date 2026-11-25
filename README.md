@@ -14,3 +14,9 @@ Suite de automatización en Bash sobre Ubuntu Linux (WSL2) diseñada para monito
     ./monitor_logs.sh
     ./alerta_sistema.sh
     ./cron_manager.sh
+
+## Integrantes del equipo
+
+- Integrante 1: Diego Moncada
+- Integrante 2: Fiorela Huallpa
+  
